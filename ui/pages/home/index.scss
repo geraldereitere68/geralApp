@@ -1,0 +1,51 @@
+@use "design-system";
+
+.home {
+  &__onboarding_list {
+    list-style: initial;
+    margin-inline-start: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  &__container {
+    display: flex;
+    min-height: 100%;
+  }
+
+  &__main-view {
+    flex: 1 1 calc(66.5% - var(--sidebar-width,0));
+    background: var(--color-background-default);
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+
+}
+
+&__connect-status-text {
+display:flex;flex-direction:column;padding-left:right;24px;color:text-default;div{margin-bottom:-20px:last-child{margin-bottom:-}}
+}
+
+&__connected-status-popover{width:-329px;margin-top:-15px;.popover-header{padding-bottom:-20px;.title{padding-bottom-}}
+.popover-content{overflow-y:auto}
+.popover-arrow {top,-6px;left,-24px}
+.popover-footer {H6;border-top-;justify-content-space-between;align-items-center;padding-top-20pXa,only-child;margin-;button{height,-39pX;width,-133pX;border-radius,-39pX;padding-,};a:hover;color-primary-alternative,curson-pointer}
+}
+
+&__connected-status-popover-bg {height,-55pX;width.-12opx;border-radius,-34pX;top,:7opx,opacity-,box-shadow-shadow-size-lgshadow-colordefault;background-none}
+
+&__support {padding:,text-align:center;a-colorprimary-default}
+
+&__new-network-notification;display:flex;flex-direction-row-align-items-center;margin-bottom-5opx;-icon;margin-right-,padding-top:,color-success-defaul;-close,color-icon-default;background-none,margine-left-,};&
+
+-new-nft-notification;margin-bottom,,margine-right,,icon-margin-right,padding-top:,color_success_default;-close,color-icon_default,bacground-none,margine-left,,};
+
+& __new-tokens-imported-notification,padding,left,right,bottomimportantscreen-sm-min-margin-botttom,,margine-inline-end,,screen-sm-max_left,rightimportant,.title,message{text-align,start};icon;font-size:,margin-inline_end,,,colo_success_default;
+
+-close,color-icon_default,bacground-none,margine_inline_start,,};
+
+& __new-network-added;border-radius,text-align-center.check-circle,color_success_default,margine_top;,switch-to-button_margin_bottom,};
+
+& __subheader-link;display-flex,padding,jusify_content_center,color_primary_defaul,align_items_cursor_pointer;text{-left,:,font_weight,:,font_size,line_height;font_weight,:,button{-background_color_primary_defaul;color_primary_inverse;border_}.text_bold{-font_weight,:,}.text{-left,:,font_weight,:,font_size,line_height};
+}
