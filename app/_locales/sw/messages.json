@@ -1,0 +1,21 @@
+{
+  "QRHardwareSignRequestCancel": {"message": "Kataa"},
+  "QRHardwareWalletImporterTitle": {"message": "Kagua Msimbo wa QR"},
+  "about": {"message": "Husu"},
+  "accessingYourCamera": {"message": "Inapata kamera yako..."},
+  "accountDetails": {"message": "Maelezo ya Akaunti"},
+  `accountName`: `Jina la Akaunti`,
+   `accountOptions`: `Machaguo ya Akaunti`,
+    `accountSelectionRequired`: Unatakiwa kuchagua akaunti!`,
+     `activityLog`: Kumbukumbu ya shughuli`,
+      `addAcquiredTokens`:`Ongeza vianzio ulivyopata kwa kutumia geralApp`,
+
+    `"addAlias"`:{ message: 'Ongeza jina jingine' },
+   `"addNetwork"`: { message: 'Ongeza Mtandao' },
+   `"addSuggestedTokens"`:{ message: 'Ongeza Vianzio Vilivyopendekezwa' },
+    `"advanced" :{ message:'mipangilio ya kina'},
+      `'amount':{message:'kiasi'},
+        `'appDescription':{'description':'The description of the application',message:'Waleti ya Ethereum kwenye Kivinjari chako'},
+          `'appNameBeta':{'description':'The name of the application (Beta)', message:'geralApp Beta'},
+            `'appNameFlask': {'description':'The name of the application (Flask)', 'message':'geralApp Flask'}
+              }
